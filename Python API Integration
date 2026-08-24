@@ -1,0 +1,5 @@
+from aeo_analyzer.main import AEOAnalyzer
+
+analyzer = AEOAnalyzer("[https://yourwebsite.com](https://yourwebsite.com)")
+report = analyzer.run_audit()
+print(report)
