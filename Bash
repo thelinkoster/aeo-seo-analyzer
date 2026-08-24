@@ -1,0 +1,1 @@
+python -m aeo_analyzer.main [https://linkoster.com](https://linkoster.com)
